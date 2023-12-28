@@ -56,7 +56,7 @@ public class ux extends javax.swing.JFrame {
         menu_panel.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
-        jLabel1.setText("Anime Maper Links Donwloader");
+        jLabel1.setText("Anime Mapper Links Downloader");
         menu_panel.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 20, -1, -1));
         menu_panel.add(urlAnimeFLVCap1, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 90, 440, -1));
 

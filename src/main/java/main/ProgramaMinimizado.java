@@ -32,7 +32,7 @@ public class ProgramaMinimizado {
             PopupMenu menu = new PopupMenu();
             
             MenuItem openBrowser = new MenuItem("Abrir navegador");
-            MenuItem donwloader = new MenuItem("Anime Maper");
+            MenuItem donwloader = new MenuItem("Anime Mapper");
             MenuItem salirItem = new MenuItem("Salir");
             
             openBrowser.addActionListener((ActionEvent e) -> {

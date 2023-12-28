@@ -41,7 +41,7 @@ public class uxLinks extends javax.swing.JFrame {
         menu_panel.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
-        jLabel1.setText("Maper Links Donwloader");
+        jLabel1.setText("Mapper Links Downloader");
         menu_panel.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 20, -1, -1));
 
         jLabel2.setFont(new java.awt.Font("Segoe UI", 3, 12)); // NOI18N
